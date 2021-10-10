@@ -1,5 +1,9 @@
 # Naamkaran
 
+![image](https://user-images.githubusercontent.com/73781304/136705843-34826d9c-3816-4bf9-8bf7-2bb4e24d9e97.png)
+
+![image](https://user-images.githubusercontent.com/73781304/136705866-46d443ae-a327-41e4-aa14-89773c3a6af3.png)
+
 ## Pre-coding Phase
 
 ### Problem Statement
