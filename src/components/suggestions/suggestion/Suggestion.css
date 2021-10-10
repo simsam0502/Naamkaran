@@ -1,0 +1,17 @@
+.suggestion{
+    display: inline-block;
+    border: 5px solid #F2E86D;
+    box-sizing: border-box;
+    border-radius: 100px;
+    padding: 0.5%;
+    margin: 1%;
+    width:250px;
+    font-family: 'Dekko', cursive;
+    font-size: 1.5rem;
+    color:#F2E86D; 
+}
+
+.suggestion:hover{
+    background-color: #F2E86D;
+    color: #090C9B;
+}

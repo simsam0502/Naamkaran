@@ -1,0 +1,67 @@
+.header-img-expanded{
+    height:30%;
+    width:35%;
+    animation: expand 1s 1;
+}
+
+.header-img-contracted{
+    height:15%;
+    width:20%;
+    animation: contract 1s 1;
+}
+
+@keyframes expand {
+    from{
+        height:15%;
+        width:20%;
+    }
+    to{
+        height:30%;
+        width:35%;
+    }
+}
+
+@keyframes contract {
+    from{
+        height:30%;
+        width:35%;
+    }
+    to{
+        height:15%;
+        width:20%;
+    }
+    
+}
+
+.header-text{
+    color:#F2E86D;
+    font-family: 'Charmonman', cursive;
+}
+
+.header-text-large{
+    font-size: 3rem;
+    animation: increase 1s 1;
+}
+
+.header-text-small{
+    font-size:1.5rem;
+    animation: decrease 1s 1;
+}
+
+@keyframes increase {
+    from{
+        font-size: 1.5rem;
+    }
+    to{
+        font-size: 3rem;
+    }
+}
+
+@keyframes decrease {
+    from{
+        font-size: 3rem;
+    }
+    to{
+        font-size: 1.5rem;
+    }
+}
