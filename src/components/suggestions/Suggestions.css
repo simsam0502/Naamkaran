@@ -1,7 +1,5 @@
 .suggestions{
     padding:5% 0;
-    display: flexbox;
-    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
